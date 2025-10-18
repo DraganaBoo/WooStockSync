@@ -1,5 +1,7 @@
 # WooStockSync
 This project is a Python middleware script that prepares daily import files  for updating stock levels on a WooCommerce webshop.
+> **Note:** This is a work-in-progress (beta) version of the script.
+> Functionality is still under development and updates are ongoing.
 
 ## Goal
 - Automatically detect changes in warehouse inventory (Lager.xlsx) 
